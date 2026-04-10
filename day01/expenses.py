@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+Created by CoPilot on 2024-06-08
 expenses.py
 
 Collects between 5 and 10 expense amounts from the user, then prints the total and average.
