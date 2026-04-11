@@ -12,3 +12,4 @@ print("Átlag:", avg)
 
 if total > 10000:
     print("Sokat költöttél")
+    

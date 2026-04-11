@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Modify expenses_simple.py to use functions for better organization and readability."""
+"""Modify expenses_simple.py to use functions for better organization and readability.
+
+Using a while loop, create a program that allows the user to input their expenses one by one. 
+The user can type "stop" to finish entering expenses. After that, the program should calculate 
+and display the total and average of the entered expenses. If the total exceeds 10,000
+it should also display a warning message.
+"""
 
 def get_expenses():
     expenses = []
@@ -50,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
         main()
+        
