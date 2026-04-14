@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Modify expenses to include categories.
+"""Modify expenses to save and load from CSV.
 
 Adding more statistical metrics to the expenses program. 
 In addition to calculating the total and average of the entered expenses, 
